@@ -22,7 +22,7 @@ ___
 
 ___
 ### 📫 How to reach me:
-[![pre-commit](https://img.shields.io/badge/Telegram-bikovshanin-26A5E4?logo=telegram&logoColor=white)](https://t.me/temiso)
+[![pre-commit](https://img.shields.io/badge/Telegram-temiso-26A5E4?logo=telegram&logoColor=white)](https://t.me/temiso)
 
 <!--
 **bikovshanin/bikovshanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
